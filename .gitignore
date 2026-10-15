@@ -1,0 +1,11 @@
+venv
+__pycache__/
+.vscode/
+build/
+dist/
+*.py[cod]
+*$py.class
+*.so
+.mypy_cache/
+
+https://github.com/kiki-glow/resume_screening_system.git
